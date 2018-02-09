@@ -5,8 +5,8 @@ INSTRUCCIONES PARA INTEGRAR EL MÓDULO
 
   -Crear un proyecto nuevo de Visual Studio 2015 de C#
   
-  -Añadir una referencia la cual será la DLL llamada: dllReporte, cuya ubicación es: (dllconexion\dllconexion\bin\Debug\dllconexion)
-    Añadir una referencia la cual será la DLL llamada: dllReporte, cuya ubicación es: (dllconexion\dllconexion\bin\Debug\AdministradorDeReportes)
+  -Añadir una referencia la cual será la DLL llamada: dllReporte, cuya ubicación es: (dllconexion\dllconexion\bin\Debug\dllReporte)
+  -Añadir una referencia la cual será la DLL llamada: AdministradorDeReportes, cuya ubicación es: (dllconexion\dllconexion\bin\Debug\AdministradorDeReportes)
     
   - A continuación, las líneas de código que hacen llamada a la reportería con los parámetros a la base de datos:
   
