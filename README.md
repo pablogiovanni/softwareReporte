@@ -1,5 +1,8 @@
 # softwareReporte; VERSION DE CRYSTALREPORTS = 13.0.21.2533
-Módulo integrado de reportes
+LINK: https://drive.google.com/open?id=1pXy2df_QoFaxKuNgbD1BdQ7Zk6dcdhcA
+
+
+MODULO INTEGRADO DE REPORTES
 
 INSTRUCCIONES PARA INTEGRAR EL MÓDULO
 
